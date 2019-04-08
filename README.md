@@ -1,4 +1,4 @@
-# globus-id-explorer
+# globus-identity-explorer
 This is a Web app that allows anyone to explore their Globus identity information. It is intended
 to be deployed on a public Web server so that one can connect to it using a Web browser, login,
 see the data that Globus's Auth API provides to the app, and logout. The purpose of the app is to
